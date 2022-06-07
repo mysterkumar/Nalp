@@ -15,4 +15,16 @@ Consequences - the bad effects an attack can take in the future.
 Applications -  the places or means where this attack can be used.
 
 
+# major tasks
 
+First prototype - website view
+
+1. search bar --harsh 
+2. options (network attacks) --harsh
+3. menu button (google xl sheet)
+      1. diagram
+      2. cause --ashu
+      3. consequences --ashu
+      4. prevention -- ashu
+      5. applications - social media, 
+ 
