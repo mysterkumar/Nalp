@@ -1,7 +1,5 @@
 # NALP - Network Attack Learning Platform
 
-![Man in the middle](https://flic.kr/ps/3ZE6bw)
-
 >Network attack learning platform built with React, Redux, Express, and TypeScript.
 
 [Live link to site - under development]([https://nalp.herokuapp.com/])
