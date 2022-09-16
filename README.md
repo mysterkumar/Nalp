@@ -2,6 +2,7 @@
 
 >Network attack learning platform built with React, Redux, Express, and TypeScript.
 
+Link to live site - ![nalp](https://user-images.githubusercontent.com/62147994/190635643-f0d392e5-cbc1-430f-87c3-6e98dace301b.jpg)
 'https://nalp.herokuapp.com/'
 
 ## About
