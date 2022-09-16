@@ -2,8 +2,10 @@
 
 >Network attack learning platform built with React, Redux, Express, and TypeScript.
 
-Link to live site - ![nalp](https://user-images.githubusercontent.com/62147994/190635643-f0d392e5-cbc1-430f-87c3-6e98dace301b.jpg)
-'https://nalp.herokuapp.com/'
+## Screenshot
+![nalp](https://user-images.githubusercontent.com/62147994/190635643-f0d392e5-cbc1-430f-87c3-6e98dace301b.jpg)
+
+Link to live site - 'https://nalp.herokuapp.com/'
 
 ## About
 NALP is a Network attack learning platform built using React, Redux and Express. It scrapes results from Google and obtains their meta-data using the node x-ray library. It also has a text-outline feature (powered by node-unfluff) that allows you to read the contents of a web page in clean, formatted text without leaving the NALP.
