@@ -1,6 +1,6 @@
 # NALP - Network Attack Learning Platform
 
-![Man in the middle](https://photos.app.goo.gl/nGG3yzpnQYnbpG6z6)
+![Man in the middle]([https://photos.app.goo.gl/nGG3yzpnQYnbpG6z6](https://photos.google.com/share/AF1QipN5kKiGcD9sa2nqMo-BM8-V89uDkJxPeXFXFItZNWr9Sh5Gk6W1HU0IQ3-1JFR6zQ/photo/AF1QipOHHgLZbyzYIZJPYTuwbrDt6ilUSx2ykcwMgMAA?key=VDNvSUhORk5LdVpHQjFTRTZZZjVYT1kzWTUxOFFn))
 
 >Network attack learning platform built with React, Redux, Express, and TypeScript.
 
